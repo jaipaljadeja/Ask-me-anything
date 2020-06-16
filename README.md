@@ -1,16 +1,11 @@
-# askanything
+# ASK ME ANYTHING
 
 A new Flutter application.
 
-## Getting Started
+This is my first ever interactive flutter project and its nothinf special;
+it just generate differnt messages in random in pressing a button.
 
-This project is a starting point for a Flutter application.
+for example say "Should i watch netflix today?"
+now tap on the button in the middle it will give you a random response like "yes" , "maybe", "ask me later" etc.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am just a newbie so dont expect some great ui and stuff.
